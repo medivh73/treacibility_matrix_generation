@@ -1,4 +1,4 @@
-## This script allows you to generate a Requirement Treacibility Matrix based on provided Jira filter export (CSV file) and TestRail export (may be a single or multiple CSV files). 
+## This script allows you to generate a Requirement Traceability Matrix based on provided Jira filter export (CSV file) and TestRail export (may be a single or multiple CSV files). 
 
 0. To use this script you will need nodeJS installed on your machine. Download it here: https://nodejs.org/en/download
 
